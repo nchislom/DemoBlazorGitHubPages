@@ -1,2 +1,2 @@
-# blazor-wasm
+# DemoBlazorGitHubPages
 Blazor WebAssembly Application
